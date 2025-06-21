@@ -19,3 +19,8 @@ BROWSER = VIVALDI
 TASK MANAGER = BPYTOP
 
 OS = ENDEAVOR OS
+
+I customized the background to match the gruvbox theme. the original can be found her https://wallpapers-clan.com/desktop-wallpapers/tanjiro-water-blade-demon-slayer-retro/]
+
+this is the customized version
+# ![gruv](https://github.com/user-attachments/assets/cefec775-6222-4320-a4d6-9fa320fbaf28)
