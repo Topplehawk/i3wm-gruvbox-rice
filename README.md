@@ -1,8 +1,6 @@
 # i3-gruvbox-rice
 
-# ![2025-06-20-18:53:09-screenshot](https://github.com/user-attachments/assets/a7e18bac-a862-4c63-9029-a5fdb05beabe)
 
-# ![2025-06-20-18:40:26-screenshot](https://github.com/user-attachments/assets/1886d66a-d9a4-4494-8c79-5c227156a40e)
 
 NEOVIM THEME = https://github.com/morhetz/gruvbox
 
