@@ -32,3 +32,5 @@ other backgrounds that looks great witth gruvbox can be found at https://gruvbox
 in a short time you should be able to find my wallpaper on the gruvbox wallpapers page which can be found at the link above
 
 i will update this once it can be found at the gruvbox wallpapers site
+
+this wallpaper can also be found in the maine branch of this repo
