@@ -26,3 +26,8 @@ I customized the background to match the gruvbox theme. the original can be foun
 
 this is the customized version
 # ![gruv](https://github.com/user-attachments/assets/cefec775-6222-4320-a4d6-9fa320fbaf28)
+
+other backgrounds that looks great witth gruvbox can be found at https://gruvbox-wallpapers.pages.dev
+in a short time you should be able to find my wallpaper on the gruvbox wallpapers page which can be found at the link above
+
+i will update this once it can be found at the gruvbox wallpapers site
