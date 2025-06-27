@@ -35,5 +35,12 @@ I will update this once it can be found at the gruvbox wallpapers site.
 
 This wallpaper can also be found in the main branch of this repo.
 
-to get the gruvbox theme working in vifm you will need to run ```wget -P ~/.config/vifm/colors https://raw.githubusercontent.com/vifm/vifm-colors/master/gruvbox.vifm```
-you will then need to add ```:colorscheme gruvbox``` in the vifmrc file
+to get the gruvbox theme working in vifm you will need to run 
+```
+wget -P ~/.config/vifm/colors https://raw.githubusercontent.com/vifm/vifm-colors/master/gruvbox.vifm
+```
+you will then need to add 
+```
+:colorscheme gruvbox
+```
+ in the vifmrc file
