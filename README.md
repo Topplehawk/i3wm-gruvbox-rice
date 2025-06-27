@@ -52,6 +52,8 @@ sudo pacman -Sy bpytop
 
 EndeavorOS is basicaly just a preconfigured arch so you dont have to set up things like bluetooth and wifi. you can use whatever os you like though as long as you use i3wm https://endeavouros.com
 
+### BACKGROUND
+
 I customized the background to match the gruvbox theme. The original can be found her https://wallpapers-clan.com/desktop-wallpapers/tanjiro-water-blade-demon-slayer-retro/]
 
 This is the customized version
@@ -64,6 +66,8 @@ In a short time you should be able to find my wallpaper on the gruvbox wallpaper
 I will update this once it can be found at the gruvbox wallpapers site.
 
 This wallpaper can also be found in the main branch of this repo.
+
+### VIFM
 
 to get the gruvbox theme working in vifm you will need to run 
 ```
