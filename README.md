@@ -6,25 +6,51 @@
 
 ### NEOVIM THEME = https://github.com/morhetz/gruvbox
 
+gruvbox is pretty popular so theres lots of themes that look the exact same. 
+
+https://www.figma.com/community/file/840895380520234275/gruvbox-syntax-highlighting containes information on the colors used for gruvbox
+
 ### STATUS BAR = POLYBAR
 
-### BACKGROUND = https://www.reddit.com/r/ImageGoNord/comments/qltzm1/gruvbox_3840x2160_astronaut_with_imagegonord/
+all the information for this is available at https://github.com/polybar/polybar
+it can be installed by running 
+```
+sudo pacman -Sy polybar
+```
 
 ### AUDIO VISULIZER = CAVA
 
 For information on installing cava see https://github.com/karlstav/cava
-
+it can be installed with 
+```
+pacman -Sy cava
+```
 ### CLOCK = PEACLOCK
 
 for information on installing peaclock see https://github.com/octobanana/peaclock
 
 ### TERMINAL = KITTY
 
+This link is a great resource for learning how to configure kitty and explains a lot about https://linuxiac.com/kitty-terminal-emulator/
+
 ### BROWSER = VIVALDI
+
+all the information on this that you need can be found at https://wiki.archlinux.org/title/Vivaldi
+
+it can also just be installed with 
+```
+sudo pacman -Sy vivaldi
+```
 
 ### TASK MANAGER = BPYTOP
 
+this is available in the arch reposetories so you can use pacman to install it. 
+```
+sudo pacman -Sy bpytop
+```
 ### OS = ENDEAVOR OS
+
+EndeavorOS is basicaly just a preconfigured arch so you dont have to set up things like bluetooth and wifi. you can use whatever os you like though as long as you use i3wm https://endeavouros.com
 
 I customized the background to match the gruvbox theme. The original can be found her https://wallpapers-clan.com/desktop-wallpapers/tanjiro-water-blade-demon-slayer-retro/]
 
