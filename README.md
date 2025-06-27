@@ -69,6 +69,8 @@ This wallpaper can also be found in the main branch of this repo.
 
 ### VIFM
 
+![2025-06-26-21:09:44-screenshot](https://github.com/user-attachments/assets/33b3ed5d-8fd2-4ea3-855c-c582ca7ce805)
+
 to get the gruvbox theme working in vifm you will need to run 
 ```
 wget -P ~/.config/vifm/colors https://raw.githubusercontent.com/vifm/vifm-colors/master/gruvbox.vifm
