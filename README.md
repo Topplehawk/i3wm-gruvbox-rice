@@ -33,4 +33,4 @@ In a short time you should be able to find my wallpaper on the gruvbox wallpaper
 
 I will update this once it can be found at the gruvbox wallpapers site.
 
-This wallpaper can also be found in the maine branch of this repo.
+This wallpaper can also be found in the main branch of this repo.
