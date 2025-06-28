@@ -91,3 +91,7 @@ you will then need to add
 :colorscheme gruvbox
 ```
  in the vifmrc file
+
+ Unlike in neovim you will not need to install 3rd party software to set up the theme in VIFM
+
+ #### At a later time I might create a bash script that will install everything automaticaly. This will not be available any time soon.
