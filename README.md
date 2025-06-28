@@ -8,7 +8,20 @@
 
 gruvbox is pretty popular so theres lots of themes that look the exact same. 
 
-https://www.figma.com/community/file/840895380520234275/gruvbox-syntax-highlighting containes information on the colors used for gruvbox
+https://www.figma.com/community/file/840895380520234275/gruvbox-syntax-highlighting containes information on the colors used for gruvbox\
+
+You will need to install vim plug. To do this run 
+```
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+```
+This should install it completely. You will then need to replace your init.vim file with the one i have provided or add 
+```
+call plug#begin('~/.vim/plugged')
+Plug 'https://github.com/morhetz/gruvbox.git'
+call plug#end()
+```
+Then run `:PlugInstall` in neovim
 
 ### STATUS BAR = POLYBAR
 
@@ -31,6 +44,10 @@ for information on installing peaclock see https://github.com/octobanana/peacloc
 
 ### TERMINAL = KITTY
 
+To install kitty run 
+```
+sudo pacman -Sy kitty
+```
 This link is a great resource for learning how to configure kitty and explains a lot about https://linuxiac.com/kitty-terminal-emulator/
 
 ### BROWSER = VIVALDI
