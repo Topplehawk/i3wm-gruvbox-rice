@@ -68,6 +68,7 @@ sudo pacman -Sy bpytop
 ### OS = ENDEAVOR OS
 
 EndeavorOS is basicaly just a preconfigured arch so you dont have to set up things like bluetooth and wifi. you can use whatever os you like though as long as you use i3wm https://endeavouros.com
+i3 uses differant keybinds than other wondow managers and desktop interfaces. This means that theres a bit of a learning curve.
 
 ### BACKGROUND
 
