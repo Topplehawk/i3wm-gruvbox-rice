@@ -3,7 +3,7 @@
 # ![2025-06-22-15:35:12-screenshot](https://github.com/user-attachments/assets/7d430059-5514-4d99-b32b-bb07ba7d5574)
 # ![2025-06-26-17:34:54-screenshot](https://github.com/user-attachments/assets/f57c1cad-4097-484b-9078-ad268f3627f9)
 
-### starting
+### STARTING AND BEFORE RICING
 
 Make sure you install git. I recommend also installing the github CLI this can be done pretty easily, just run: 
 ```
