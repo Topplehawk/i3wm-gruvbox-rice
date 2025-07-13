@@ -1,7 +1,8 @@
 # i3-gruvbox-rice
-# ![2025-06-21-15:26:07-screenshot](https://github.com/user-attachments/assets/927fa042-1ff1-4ccc-9875-12292675d0bf)
-# ![2025-06-22-15:35:12-screenshot](https://github.com/user-attachments/assets/7d430059-5514-4d99-b32b-bb07ba7d5574)
-# ![2025-06-26-17:34:54-screenshot](https://github.com/user-attachments/assets/f57c1cad-4097-484b-9078-ad268f3627f9)
+# <img width="3840" height="1080" alt="2025-07-13-13:46:15-screenshot" src="https://github.com/user-attachments/assets/6a8f1ad2-6c68-4d52-911c-b1a3fece5f0b" />
+# <img width="3840" height="1080" alt="2025-07-13-13:46:51-screenshot" src="https://github.com/user-attachments/assets/a0757b1a-c577-4451-b815-06de1c484d73" />
+# <img width="3840" height="1080" alt="2025-07-13-13:47:52-screenshot" src="https://github.com/user-attachments/assets/430f24fa-4f3c-43bb-8ada-123170743b67" />
+
 
 ### STARTING AND BEFORE RICING
 
