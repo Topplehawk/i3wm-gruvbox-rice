@@ -1,4 +1,4 @@
-# i3-gruvbox-rice
+# i3 gruvbox orange rice
 # <img width="3840" height="1080" alt="2025-07-13-13:46:15-screenshot" src="https://github.com/user-attachments/assets/6a8f1ad2-6c68-4d52-911c-b1a3fece5f0b" />
 # <img width="3840" height="1080" alt="2025-07-13-13:46:51-screenshot" src="https://github.com/user-attachments/assets/a0757b1a-c577-4451-b815-06de1c484d73" />
 # <img width="3840" height="1080" alt="2025-07-13-13:47:52-screenshot" src="https://github.com/user-attachments/assets/430f24fa-4f3c-43bb-8ada-123170743b67" />
