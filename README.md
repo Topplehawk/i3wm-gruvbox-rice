@@ -88,17 +88,13 @@ i3 uses differant keybinds than other wondow managers and desktop interfaces. Th
 
 ### BACKGROUND
 
-I customized the background to match the gruvbox theme. The original can be found her https://wallpapers-clan.com/desktop-wallpapers/tanjiro-water-blade-demon-slayer-retro/]
-to do this i used GIMP
-
-This is the customized version
-# ![gruv](https://github.com/user-attachments/assets/cefec775-6222-4320-a4d6-9fa320fbaf28)
+![spacegruvbox](https://github.com/user-attachments/assets/fd510ce3-b6f9-4786-8017-a50b61724f06)
 
 This wallaper and others that looks great witth gruvbox can be found at https://gruvbox-wallpapers.pages.dev which is where i reccomend downloading it from.
 
 ### VIFM
 
-![2025-06-26-21:09:44-screenshot](https://github.com/user-attachments/assets/33b3ed5d-8fd2-4ea3-855c-c582ca7ce805)
+![2025-07-13-13:50:06-screenshot](https://github.com/user-attachments/assets/785cc1f9-a2db-4734-b291-5ac047e56882)
 
 to get the gruvbox theme working in vifm you will need to run 
 ```
